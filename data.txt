@@ -1,0 +1,17 @@
+
+MIBCounts:
+	Discovers = 8109173.
+	Offers = 154.
+	Delayed Offers = 0.
+	Requests = 23.
+	Acks = 37.
+	Naks = 15.
+	Declines = 0.
+	Releases = 14.
+	ServerStartTime = 2015?12?16? 9:22:05     
+	Scopes = 1.
+	Scopes with Delay configured= 0.
+	Subnet = 192.168.20.0.
+		No. of Addresses in use = 151.
+		No. of free Addresses = 0.
+		No. of pending offers = 149.
